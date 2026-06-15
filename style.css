@@ -11,3 +11,20 @@ main{
 footer{
     background-color: aqua;
 }
+#logotipo{
+    height: 200px;
+    width: auto;
+    border-radius: 50%;
+    margin: 20px;
+}
+
+#menu{
+    text-align: center;
+}
+
+#menu a{
+    text-decoration: none;
+}
+#menu li{
+    display: inline;
+}
